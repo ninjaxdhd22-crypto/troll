@@ -1,0 +1,2 @@
+# troll
+script for roblox
